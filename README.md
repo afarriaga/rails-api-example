@@ -74,7 +74,7 @@ rails s
 **Rails console**
 
 ```bash
-rails console
+rails c
 ```
 
 **How to run the test suite**
